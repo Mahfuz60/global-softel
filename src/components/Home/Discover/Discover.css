@@ -1,0 +1,45 @@
+.discover-bg {
+  background-color: #18163b;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+}
+.discover-header {
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 5rem;
+}
+
+.card {
+  background-color: #231e44;
+  justify-content: center;
+  justify-items: center;
+  width: 90%;
+  height: 95%;
+  padding: 2rem;
+}
+
+.card img {
+  justify-content: center;
+  justify-items: center;
+  width: 70%;
+  height: 60%;
+  margin-left: 2rem;
+}
+.card h4 {
+  color: #ffffff;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.card p {
+  color: rgb(201, 200, 200);
+  text-align: center;
+  margin-top: 2rem;
+}
+.discover-card:hover {
+  background-image: linear-gradient(to right, #2317fa, #d529e4);
+  border: none;
+}
